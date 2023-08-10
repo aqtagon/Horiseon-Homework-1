@@ -13,3 +13,5 @@ These steps were taken to enhance the clarity and accessibility of the website f
 - Replaced benefits with "aside" and each benefit had its own class
 - Replaced div class=footer to just "footer"
 - See refactored website here: [Link](https://aqtagon.github.io/Horiseon-Homework-1/)
+
+Note: Received assistance with code from Tutor Jude Clark
