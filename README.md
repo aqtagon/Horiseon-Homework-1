@@ -12,4 +12,4 @@ These steps were taken to enhance the clarity and accessibility of the website f
 - Created service sections
 - Replaced benefits with "aside" and each benefit had its own class
 - Replaced div class=footer to just "footer"
-- See refactored website here: [Link](https:///Users/ahmeddanawi/Documents/bootcamp/homeworks/horiseon/index.html)
+- See refactored website here: [Link](https://aqtagon.github.io/Horiseon-Homework-1/)
